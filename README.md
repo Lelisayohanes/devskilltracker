@@ -1,5 +1,5 @@
 devskilltracker/
-│
+```
 ├── apps/                              # All microservices & frontend
 │   ├── auth-service/
 │   ├── user-profile/
@@ -64,3 +64,4 @@ devskilltracker/
 ├── .env                               # Root env vars
 ├── Makefile                           # Build/test/deploy commands
 └── README.md
+```
